@@ -1,6 +1,14 @@
 # Sprint 2
 
-  - Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+  - Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
+  - Daily Scrum: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
+  - Sprint board update: Sprint board ekran görüntüleri:
+
+  - Ürün durumu: Ürün durumu ekran görüntüleri:
+
+  - Daily scrum: Daily scrum ekran görüntüleri:
+
+  - Sprint rewiew:
 
 
 <!---
