@@ -8,7 +8,13 @@
 
   - Daily scrum: Daily scrum ekran görüntüleri:
 
-  - Sprint rewiew:
+  - Sprint rewiew: Alınan kararlar: Tüm UX hedefleri tamamlandı ve uygulamaya entegre edildi. UI tasarımı tamamlandı ve ekip üyelerinden onay alındı. Uygulamanın temel işlevleri başarıyla geliştirildi.
+
+  - Sprint retrospective:
+         - Uygulamaya yeni özellikler eklenmesi konusunda karar alınmıştır.
+         - Gelecek sprintte uygulamayı tamamlayıp son testlerinin yapılması konusunda karar alınmıştır.
+    
+
 
 
 <!---
