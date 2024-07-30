@@ -9,9 +9,12 @@
   - Daily scrum: Daily scrum ekran görüntüleri:
 
   - Sprint rewiew: Alınan kararlar:
-  #Takım ruhunu koruyan ve özveriyle çalışan ekip üyeleri birbirine teşekkür etti. Son düzenlemeler ve son testler yapıldı
+        Son düzenlemeler ve son testler yapıldı.
+        Takım ruhunu koruyan ve özveriyle çalışan ekip üyeleri birbirine teşekkür etti.
                            
   - Sprint retrospective:
+  -     Takım üyeleri için çok güzel bir deneyim olduğuna karar verildi.
+  -     Uygulamanın geliştirilmeye devam edilmesine karar verildi.
                
     
 
