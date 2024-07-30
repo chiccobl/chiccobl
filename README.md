@@ -13,8 +13,8 @@
      Takım ruhunu koruyan ve özveriyle çalışan ekip üyeleri birbirine teşekkür etti.
                            
   - Sprint retrospective:
-    Takım üyeleri için çok güzel bir deneyim olduğuna karar verildi.
-    Uygulamanın geliştirilmeye devam edilmesine karar verildi.
+    .Takım üyeleri için çok güzel bir deneyim olduğuna karar verildi.
+    .Uygulamanın geliştirilmeye devam edilmesine karar verildi.
                
     
 
