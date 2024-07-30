@@ -1,4 +1,4 @@
-# Sprint 2
+# Sprint 3
 
   - Sprint içinde tamamlanması tahmin edilen puan: 120 Puan
   - Daily Scrum: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
@@ -8,11 +8,11 @@
 
   - Daily scrum: Daily scrum ekran görüntüleri:
 
-  - Sprint rewiew: Alınan kararlar: Tüm UX hedefleri tamamlandı ve uygulamaya entegre edildi. UI tasarımı tamamlandı ve ekip üyelerinden onay alındı. Uygulamanın temel işlevleri başarıyla geliştirildi.
-
+  - Sprint rewiew: Alınan kararlar:
+    ##Takım ruhunu koruyan ve özveriyle çalışan ekip üyeleri birbirine teşekkür etti. Son düzenlemeler ve son testler yapıldı
+                           
   - Sprint retrospective:
-          Uygulamaya yeni özellikler eklenmesi konusunda karar alınmıştır.
-          Gelecek sprintte uygulamayı tamamlayıp son testlerinin yapılması konusunda karar alınmıştır.
+               
     
 
 
